@@ -33,11 +33,12 @@ Orbital Parameter information. Each planet has 9 parameters::
 Instrumental parameter information::
 
     Columns 40, 41: Carnegie HIRES RV offsets
-    Columns 42: California HIRES RV offset
+    Column 42: California HIRES RV offset
     Column 43: ELODIE RV offset
     Column 44: CORALIE RV offset
     Column 45: HARPS RV offset
-    Columns 46: Carnegie HIRES RV jitter
+
+    Column 46: Carnegie HIRES RV jitter
     Column 47: California HIRES RV jitter
     Column 48: ELODIE RV jitter
     Column 49: CORALIE RV jitter
