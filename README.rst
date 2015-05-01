@@ -7,7 +7,7 @@ This is a repository for posterior samples of the Gliese 876 planetary system. M
 How to read these files
 -----------------------
 
-The two files listed above contain posterior samples directly from the RV observations (raw) and by imposing a 10 million year stability criterion (stable). Each line is a posterior sample containing 68 values. They read as follows.
+The two files listed above contain posterior samples directly from the RV observations (raw) and by imposing a 10 million year stability criterion (stable). Each line is a posterior sample containing 54 values. They read as follows.
 
 
 MCMC information::
