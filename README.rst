@@ -1,13 +1,13 @@
 GJ876
 ========
 
-This is a repository for posterior samples of the Gliese 876 planetary system. Methodological and science details will be found on arXiv soon.
+This is a repository for posterior samples of the Gliese 876 planetary system. Methodological and science details can be found at [this arXiv link](http://arxiv.org/abs/1504.07995).
 
 
 How to read these files
 -----------------------
 
-Each line represents a draw from a Markov chain Monte Carlo. Each line contains 68 values. They read as follows.
+The two files listed above contain posterior samples directly from the RV observations (raw) and by imposing a 10 million year stability criterion (stable). Each line is a posterior sample containing 68 values. They read as follows.
 
 
 MCMC information::
@@ -56,4 +56,4 @@ Supplementary information::
 Attribution
 -----------
 
-There will be a source soon.
+I will list a BibTeX entry once it gets listed.
