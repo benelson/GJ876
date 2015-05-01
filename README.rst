@@ -1,7 +1,7 @@
 GJ876
 ========
 
-This is a repository for posterior samples of the Gliese 876 planetary system. Methodological and science details can be found at [this arXiv link](http://arxiv.org/abs/1504.07995).
+This is a repository for posterior samples of the Gliese 876 planetary system. Methodological and science details can be found at `this arXiv link <http://arxiv.org/abs/1504.07995>`_.
 
 
 How to read these files
