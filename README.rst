@@ -56,4 +56,20 @@ Supplementary information::
 Attribution
 -----------
 
-I will list a BibTeX entry once it gets listed.
+Please cite `this <http://adsabs.harvard.edu/abs/2015arXiv150407995N>`_ if you use these posterior samples in your research.
+
+The BibTeX entry for the paper is::
+
+    @ARTICLE{2015arXiv150407995N,
+	author = {{Nelson}, B.~E. and {Robertson}, P. and {Payne}, M.~J. and {Pritchard}, S.~M. and {Deck}, K.~M. and {Ford}, E.~B. and {Wright}, J.~T. and {Isaacson}, H. },
+         title = "{An Empirically Derived Three-Dimensional Laplace Resonance in the Gliese 876 Planetary System}",
+       journal = {ArXiv e-prints},
+ archivePrefix = "arXiv",
+        eprint = {1504.07995},
+  primaryClass = "astro-ph.EP",
+      keywords = {Astrophysics - Earth and Planetary Astrophysics},
+          year = 2015,
+         month = apr,
+        adsurl = {http://adsabs.harvard.edu/abs/2015arXiv150407995N},
+       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+    }
